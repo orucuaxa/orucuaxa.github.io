@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://orucuaxa.github.io/ZeC/sitemap_index.txt.gz
+Sitemap: https://orucuaxa.github.io/fkq/sitemap_index.txt.gz
+Sitemap: https://orucuaxa.github.io/hFS/sitemap_index.txt.gz
+Sitemap: https://orucuaxa.github.io/kpL/sitemap_index.txt.gz
+Sitemap: https://orucuaxa.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://orucuaxa.github.io/xoC/sitemap_index.txt.gz
